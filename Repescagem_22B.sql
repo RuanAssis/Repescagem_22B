@@ -1,8 +1,5 @@
 use respecagem_22B;
 
-
-Select * from Medicos;
-
 -- Selecionar os nomes e especialidades de todos os médicos --
 SELECT nome, especialidade
 FROM Medicos;
